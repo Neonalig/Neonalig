@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neonalig</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://neonalig.github.io" style="text-decoration: none;">Neonalig</a></h1>
 <h3 align="center">A hobbyist Unity3D Game Programmer and WPF Software Engineer from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neonalig&label=Profile%20views&color=0e75b6&style=flat" alt="neonalig" /> </p>
