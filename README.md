@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **codychook@gmail.com**
 
-- string[] Joke = **{ "hip, "hip" }**
+- string[] Joke = **{ "hip", "hip" }**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
